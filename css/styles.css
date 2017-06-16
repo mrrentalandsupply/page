@@ -1,0 +1,70 @@
+.btn-mr{
+    margin-bottom: 50px !important;
+}
+
+.img-logo{
+    width: 220px;
+    height: 220px;
+    margin-top: 20px;
+}
+
+.img-machine{
+    width: 400px;
+    height: 300px;
+}
+
+.intro-h1-mr{
+    font-size: 40px !important;
+    font-weight: 600px !important;
+    margin-bottom: 10px !important;
+}
+
+.intro-h3-mr{
+    font-size: 30px !important;
+    margin-bottom: 20px !important;
+}
+
+.text-about-title{
+    font-family: Montserrat, "Helvetica" !important;
+    font-size: 22px !important;
+    font-style: normal !important;
+}
+
+.text-about{
+    font-family: Montserrat, "Helvetica" !important;
+    font-size: 16px;
+    font-style: normal !important;
+}
+
+.back-fixed{
+    background: #000000 !important;
+}
+
+.p-description{
+    font-family: Montserrat, "Helvetica" !important;
+    font-size: 16px;
+    color: #37474f;
+    text-align: center;
+}
+
+.p-detail-title{
+    font-family: Montserrat, "Helvetica" !important;
+    font-size: 16px;
+    color: #37474f;
+    text-align: center;
+    font-weight: bold;
+}
+
+.p-detail{
+    font-family: Montserrat, "Helvetica" !important;
+    font-size: 16px;
+    color: #37474f;
+    text-align: center;
+}
+
+.p-contact{
+    font-family: Montserrat, "Helvetica" !important;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+}
